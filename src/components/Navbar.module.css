@@ -1,0 +1,17 @@
+.navContainer{
+display: flex;
+flex-direction: row;
+}
+.name{
+flex:auto ;
+font-size:30px ;
+}
+.navContainer li {
+    display: inline;
+    margin-bottom:15px;
+    margin-right:40px;
+}
+.imag {
+width:800px;
+margin-left: 300px;
+}
